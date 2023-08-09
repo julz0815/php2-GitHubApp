@@ -11,7 +11,7 @@ Normal docker build
 
 ## Run locally
 
-`docker run -p 8080:80 php-sample-app`
+`docker run -p 8080:80 php-sample-app`wertwetrwtwetr
 
 and then visit in your browser
 
